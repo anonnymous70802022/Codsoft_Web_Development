@@ -1,2 +1,2 @@
 # Codsoft_Web_Development
-Codsoft_Web_Development_Internship
+Codsoft_Web_Development_Internship_Level_1_Landing_Page
